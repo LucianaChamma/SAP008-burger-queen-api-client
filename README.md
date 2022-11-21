@@ -96,7 +96,7 @@ adicionar e a interface deve mostrar o _resumo do pedido_ com o custo total.
 
 ![out](https://user-images.githubusercontent.com/110297/45984241-b8b51c00-c025-11e8-8fa4-a390016bee9d.gif)
 
-Além disso a cliente nos deu um [link da documentação]( https://lab-api-bq.onrender.com/)
+Além disso a cliente nos deu um [link da documentação]( https://lab-api-bq.onrender.com/api-docs/)
 que especifica o comportamento esperado da API que iremos expor por HTTP.
 Lá podemos encontrar todos os detalhes dos _endpoints_, como por exemplo
 que parâmetros esperam, o que devem responder, etc.
@@ -314,7 +314,7 @@ Reflita e depois enumere os objetivos que quer alcançar e aplique no seu projet
 ## 4. Considerações gerais
 
 Este projeto deve ser feito em pares. Lembre-se que deverá consumir a
-API [Burger Queen API](https://lab-api-bq.onrender.com/).
+API [Burger Queen API](https://lab-api-bq.onrender.com/api-docs/).
 
 Trabalhe integralmente uma história de usuário antes de passar para a próxima.
 Cumpra todas as histórias possíveis dentro do tempo especificado.
